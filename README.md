@@ -23,11 +23,11 @@ Each Monster record contains:
 ## Example Input
 
 ```json
-[" sWord wraith", " MEDIUM", " 45", "grassland", "NO"]
+[" sWord wraith", " MEDIUM", " 45", "grassland", "NO"]```
 
 ## Example Output
-
-["Sword Wraith", "Medium", 45, "Grassland", False]
+```json
+["Sword Wraith", "Medium", 45, "Grassland", False]```
 
 
 ## Python Concepts Used
