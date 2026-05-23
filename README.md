@@ -23,12 +23,12 @@ Each Monster record contains:
 ## Example Input
 
 ```json
-[" sWord wraith", " MEDIUM", " 45", "grassland", "NO"]```
-
+[" sWord wraith", " MEDIUM", " 45", "grassland", "NO"]
+```
 ## Example Output
 ```json
-["Sword Wraith", "Medium", 45, "Grassland", False]```
-
+["Sword Wraith", "Medium", 45, "Grassland", False]
+```
 
 ## Python Concepts Used
 - Lists & Nested lists
